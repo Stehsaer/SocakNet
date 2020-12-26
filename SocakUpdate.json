@@ -1,7 +1,9 @@
 {
     "latestVersion":0,
+    "updateEnabled":false,
     "downloadLink":[
         ""
     ],
-    "latestVersionDescription":"New Version Available"
+    "latestVersionName":"v0.0.0",
+    "latestVersionDescription":"TestIt"
 }
