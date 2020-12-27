@@ -1,5 +1,6 @@
 {
     "serverName":"Socialism Construction",
+    "serverAddressCount":1,
     "serverAddress":[
         {
             "ip":"cn-xz-bgp.sakurafrp.com",
