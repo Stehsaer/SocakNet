@@ -1,5 +1,11 @@
 {
-    "serverAddress":"cn-xz-bgp.sakurafrp.com:40257",
+    "serverName":"Socialism Construction",
+    "serverAddress":[
+        {
+            "ip":"cn-xz-bgp.sakurafrp.com",
+            "port":40257
+        }
+    ],
     "worldSeed":"1537563839616220971",
     "mcVersion":"1.16.3",
     "announcement":[
