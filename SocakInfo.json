@@ -6,6 +6,10 @@
             "ip":"cn-xz-bgp.sakurafrp.com",
             "port":40257
         }
+        {
+            "ip":"test",
+            "port":40257
+        }
     ],
     "worldSeed":"1537563839616220971",
     "mcVersion":"1.16.3",
