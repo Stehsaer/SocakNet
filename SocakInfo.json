@@ -1,18 +1,12 @@
 {
     "serverName":"Socialism Construction",
-    "serverAddressCount":1,
-    "serverAddress":[
-        {
-            "ip":"cn-xz-bgp.sakurafrp.com",
-            "port":40257
-        },
-        {
-            "ip":"test",
-            "port":40257
-        }
-    ],
+
+    "port":40257,
+    "address":"cn-xz-bgp.sakurafrp.com",
+
     "worldSeed":"1537563839616220971",
-    "mcVersion":"1.16.3",
+    "mcVersion":"JE 1.16.3",
+
     "announcement":[
         {
             "id":0,
@@ -22,6 +16,7 @@
             "displayDate":"2020-12-26"
         }
     ],
+
     "album":{
         "legacyLinkAvailable":false,
         "legacyLink":"",
